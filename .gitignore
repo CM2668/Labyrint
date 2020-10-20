@@ -1,5 +1,4 @@
-/Labyrinth/Library*
-\Labyrinth\Library\*
+Labyrinth/Library*
 /Labyrinth/Temp*
 /Labyrinth/obj*
 /Labyrinth/Build*
@@ -55,3 +54,4 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+Labyrinth/Library/*
